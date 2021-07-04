@@ -26,3 +26,6 @@ Refactoring improves the design of the code, makes the code  easier to understan
 
 ### Disadvantages
 Refactoring nearly always includes renaming variables and methods, changing method signatures, and moving things around. Trying to make all these changes by hand can easily lead to disaster.
+
+### Refactoring in VBA Script
+The advantage of refactoring code in VBA is that you can use as much as of the original code as you want. On the other hand, the disadvantage of refactoring code in VBA is understand the syntax because you will have struggle to refactor you code when you want to do your code more efficient.
