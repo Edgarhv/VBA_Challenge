@@ -13,12 +13,16 @@ Refactor VBA code and measure performance.
 
 # Results 
 
-
+The tickers ENPH and RUN had would have been considered good investments due to the positive returns in 2018, and both tickers had increases greater than $200,000,000 over the 2017 total daily volumes.
 
 ![img](VBA_Challenge_2017.png)
  
 ![img](VBA_Challenge_2018.png)
-
-
  
+# Summary
+## 1. What are the advantages or disadvantages of refactoring code?
+### Advantages
+Refactoring improves the design of the code, makes the code  easier to understand, helps us find bugs and also helps in executing the macro faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring.
 
+### Disadvantages
+Refactoring nearly always includes renaming variables and methods, changing method signatures, and moving things around. Trying to make all these changes by hand can easily lead to disaster.
